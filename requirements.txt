@@ -1,4 +1,4 @@
 pillow == 9.4.0
 tensorflow == 2.11.0
-numpy == 1.24.2
+numpy
 opencv-python-headless
